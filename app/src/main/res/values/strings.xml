@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JBmatrix</string>
+    <string name="strike"> Geeks <strike>For Geeks </strike> </string>
+</resources>
